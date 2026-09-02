@@ -3,7 +3,7 @@
 # FILENAME: index.py
 # SPECIFICATION: This is for Question 8 of Assignment 1, where we have to create a Python program that would solve Question 7. 
 # FOR: CS 4250 - Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: around 27 minutes
 #-------------------------------------------------------------------------
 # Importing Python libraries
 import pandas as pd
